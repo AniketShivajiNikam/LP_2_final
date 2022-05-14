@@ -1,0 +1,10 @@
+ curl https://sdk.cloud.google.com | bash
+
+ gcloud init
+
+ if project is not there create it
+ https://console.cloud.google.com/start
+
+ “ cd python-docs-samples/appengine/standard/hello_world”.
+
+ dev_appserver.py app.yml
