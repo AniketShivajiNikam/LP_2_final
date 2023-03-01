@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+#include<iostream>
 #define ROW 4
 #define COL 4
 typedef pair<int,int> Pair;
